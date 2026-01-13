@@ -1,2 +1,2 @@
 # nir-demo
-This is a Demo for Github clad 
+This is a Demo for Github 
